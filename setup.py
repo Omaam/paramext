@@ -1,7 +1,7 @@
-from setuptools import setup, find_packages
+from setuptools import setup
 
 setup(
-    name='pex',
+    name='paramext',
     version='0.0.1',
     description="Parameter Extractor for Xspec",
     long_description="",
@@ -9,5 +9,5 @@ setup(
     classifiers=[
         "Development Status :: 1 - Planning"
     ],
-    packages=['pex']
+    packages=['paramext']
 )
